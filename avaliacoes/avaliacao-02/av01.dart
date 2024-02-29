@@ -1,5 +1,3 @@
-//Feito em dupla com Thayná Albano(thaynaxt)
-
 // Agregação e Composição
 import 'dart:convert';
 
@@ -73,3 +71,7 @@ void main() {
   var equipeProjetoJson = jsonEncode(equipeProjeto.toJson());
   print(equipeProjetoJson);
 }
+
+
+//Feito em dupla com Thayná Albano(thaynaxt)
+
